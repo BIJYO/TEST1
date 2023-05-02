@@ -29,4 +29,4 @@
 [GET THE OTHER PAGE](https://github.com/vishnummvmm)
 
 
-![get image](https://media.istockphoto.com/id/1148854779/vector/apple.jpg?s=612x612&w=is&k=20&c=c8sL93lNtfMruScNIh1flQWGbRyD14CG34skXcMMKTY=)
+![image](https://media.istockphoto.com/id/1148854779/vector/apple.jpg?s=612x612&w=is&k=20&c=c8sL93lNtfMruScNIh1flQWGbRyD14CG34skXcMMKTY=)
